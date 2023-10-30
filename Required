@@ -1,0 +1,13 @@
+pandas
+matplotlib
+re
+stopwords
+nltk
+punkt
+nltk.download('stopwords')
+collections
+wordcloud
+Scikit
+Keras
+Tensorflow
+NumPy
